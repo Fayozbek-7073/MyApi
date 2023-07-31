@@ -1,0 +1,29 @@
+.registerr{
+    max-width: 769px;
+    height: 597px;
+    text-align: center;
+    h2{
+        color: #232536;
+        text-align: center;
+        font-size: 48px;
+        margin-top: 50px;
+    }
+}
+.mb-3{
+    margin-top: 45px;
+}
+.form-control{
+    height: 60px;
+}
+.btmn{
+    padding: 0;
+    border: none;
+}
+.btn-pri{
+    height: 50px;
+    width: 747px;
+    background: var(--yellow, #FFD050);
+    color: #232536!important; 
+    font-size: 24px;
+    font-family: sans-serif;
+}

@@ -1,0 +1,267 @@
+@media (max-width: 992px) {
+  .btn-outline-successs {
+    margin-top: 20px;
+  }
+  .navbar-toggler {
+    background-color: white;
+  }
+  .btn-pri {
+    width: 150px !important;
+  }
+}
+@media (max-width: 765px) {
+  body {
+    margin: auto;
+  }
+  footer {
+    flex-wrap: wrap;
+  }
+  .div-row {
+    margin: 10px 0px !important;
+  }
+}
+@media (max-width: 1315px) {
+  .org-footer {
+    margin-top: 180px !important;
+  }
+  .sortmar {
+    display: none;
+  }
+  .card-box {
+    transform: translateX(308px);
+  }
+}
+@media (max-width: 827px) {
+  .finss {
+    margin-top: 666px !important;
+    margin-left: 30px;
+  }
+  .chosa-katagory {
+    margin-left: 30px;
+  }
+  .card-box {
+    transform: translateX(108px) !important;
+  }
+}
+@media (min-width: 420px) {
+  .chosa-katagory .carts {
+    height: 227.072px;
+  }
+  .chosa-katagory .carts:hover {
+    background: var(--yellow, rgba(255, 208, 80, 0.8941176471));
+  }
+  .card-box {
+    margin-left: -50px !important;
+    transform: translateX(8px);
+  }
+  .div-row {
+    margin: 10px 0px;
+  }
+}
+.flex {
+  display: flex;
+}
+
+a {
+  color: #232536;
+  text-decoration: none;
+}
+
+.trans {
+  transition: 0.4s;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.navbar-collapse {
+  justify-content: end;
+}
+.navbar-collapse .d-flex ul li a {
+  color: aliceblue !important;
+}
+.navbar-collapse .d-flex ul li a:hover {
+  color: rgba(240, 250, 255, 0.438) !important;
+}
+
+.navbar-expand-lg {
+  padding: 20px 60px;
+  background-color: #232536 !important;
+}
+
+.btn-outline-successs {
+  width: 100px;
+  height: 40px;
+  padding: 6px 28px;
+  background-color: aliceblue;
+  font-size: 19px;
+  font-family: monospace;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1536px;
+  height: 164px;
+  margin-top: 170px;
+  background: var(--black, #232536);
+  padding: 20px 60px;
+}
+
+.fins p {
+  width: 361px;
+  color: var(--light, #FFF);
+  font-size: 16px;
+  opacity: 0.6999999881;
+}
+
+.ikon {
+  display: flex;
+  gap: 20px;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+.registerr {
+  max-width: 769px;
+  height: 597px;
+  text-align: center;
+}
+.registerr h2 {
+  color: #232536;
+  text-align: center;
+  font-size: 48px;
+  margin-top: 50px;
+}
+
+.mb-3 {
+  margin-top: 45px;
+}
+
+.form-control {
+  height: 60px;
+}
+
+.btmn {
+  padding: 0;
+  border: none;
+}
+
+.btn-pri {
+  height: 50px;
+  width: 747px;
+  background: var(--yellow, #FFD050);
+  color: #232536 !important;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+section {
+  max-width: 1520px;
+  height: 720px;
+  padding: 134px 71px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+  background-position: center;
+}
+section h1 {
+  max-width: 750px;
+}
+section p {
+  max-width: 550px;
+}
+
+.sec-top {
+  margin-top: 15px;
+}
+
+.p-data {
+  margin: 10px 17px;
+}
+
+.card-oz {
+  height: 700px;
+  border: none;
+}
+
+.div-row {
+  margin: 10px 80px;
+}
+
+.sec-h2 {
+  margin: 71px 69px;
+}
+
+.card-oz:hover {
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  cursor: pointer;
+}
+
+.chosa-katagory {
+  max-width: 1520px;
+  height: 432px;
+  padding: 37px 92px;
+  gap: 50px;
+}
+.chosa-katagory p {
+  max-width: 232px;
+  height: 54.298px;
+}
+.chosa-katagory .carts {
+  max-width: 296px;
+  height: 221.072px;
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.119);
+  cursor: pointer;
+  padding: 25px 20px;
+}
+.chosa-katagory .carts:hover {
+  background: var(--yellow, rgba(255, 208, 80, 0.8941176471));
+}
+
+.card-box {
+  max-width: 200px;
+  border: none;
+  transform: translateX(508px);
+}
+
+.sortmar {
+  max-width: 1440px;
+  min-height: 348px;
+}
+
+.serpech {
+  max-width: 1280px;
+  padding: 24px;
+}
+
+.img-fluid {
+  max-width: 1275.954px;
+  height: 312px;
+}
+
+.blog {
+  display: flex;
+  width: 1280px;
+  gap: 50px;
+  padding: 30px 70px;
+  height: 441px;
+  margin-left: 115px;
+  margin-top: 50px;
+  background: var(--lavender, #F4F0F8);
+}
+.blog .our {
+  width: 516px;
+  height: 109px;
+  margin-top: 20px;
+}
+.blog .ou2r {
+  width: 516px;
+  height: 109px;
+  margin-top: 20px;
+}/*# sourceMappingURL=main.css.map */

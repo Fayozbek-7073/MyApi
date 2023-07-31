@@ -1,0 +1,27 @@
+.navbar-collapse{
+    justify-content: end;
+    .d-flex{
+        ul{
+            li{
+                 a{
+                  color: aliceblue!important;
+              }
+              a:hover{
+                color: rgba(240, 250, 255, 0.438)!important;
+            }
+            }
+        }
+    }
+}
+.navbar-expand-lg{
+    padding: 20px 60px;
+    background-color: #232536 !important;
+}
+.btn-outline-successs{
+    width: 100px;
+    height: 40px;
+    padding: 6px 28px;
+    background-color: aliceblue;
+    font-size: 19px;
+    font-family: monospace;
+}

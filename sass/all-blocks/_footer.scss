@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    max-width: 1536px;
+    height: 164px;
+    margin-top: 170px;
+    background: var(--black, #232536);
+    padding: 20px 60px;
+}
+.fins{
+    p{
+        width: 361px;
+        color: var(--light, #FFF);
+        font-size: 16px;
+        opacity: 0.699999988079071;
+    }
+} 
+.ikon{
+    display: flex;
+    gap: 20px;
+}
+
+a:hover{
+   opacity: .8;
+}

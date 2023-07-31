@@ -1,0 +1,29 @@
+
+$hed-bc:#232536;
+$bod-bc:#F2F2F2;
+$btn-cl:#ffff;
+$tex-cl:#495567;
+$tex-p:#939CAA;
+
+
+$md: 992px;
+$lg: 767px;
+$sm: 375px;
+
+
+
+.flex{
+    display: flex;
+}
+a{  
+    color: #232536;
+    text-decoration: none;
+}
+
+.trans{
+    transition: .4s;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
